@@ -1,0 +1,11 @@
+spring:
+  datasource:
+    password: Cakes
+    username: Cakes
+    url: jdbc:mysql://localhost:3306/Cakes
+
+logging:
+  level:
+    root: warn
+    '[com.promineotech]': debug
+    
